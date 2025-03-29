@@ -5,7 +5,7 @@ const countryTxt = document.querySelector('.country-txt')
 
 const notFoundSection = document.querySelector('.not-found')
 const searchCitySection = document.querySelector('.search-city')
-const apiKey = '24f78059c9d10802d95ec9b9b63fa7ac'
+const apiKey = 'Your API from https://www.weather.org/'
 
 const tempTxt = document.querySelector(".temp-txt")
 const conditionTxt = document.querySelector('.condition-txt')
