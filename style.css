@@ -11,7 +11,7 @@
 }
 
 body {
-    background: url('assets/bg.jpg');
+    background: url('./hoverla.jpg');
     width: 100%;
     height: 100dvh;
     background-size: cover;
